@@ -1,12 +1,12 @@
 customer_data = [
     {"name": "Ahmed", "email": "Ahmed@example.com", "phone": "1234567432"},
+     {"name": "Abelrahman", "email": "Abdo@example.com", "phone": "65421588"},
     {"name": "Ali", "email": "Ali@example.com", "phone": "9876577435"},
     {"name": "Sarah", "email": "Sarah@example.com", "phone": "4567890123"},
     {"name": "Isam", "email": "Isam@example.com", "phone": "7896543456"},
     {"name": "Mohamed", "email": "Mohamed@example.com", "phone": "3365678901"},
     {"name": "Maria", "email": "Maria@example.com", "phone": "942817382"},
-    {"name": "Salma", "email": "Salma@example.com", "phone": "7676423245"},
-]
+    {"name": "Salma", "email": "Salma@example.com", "phone": "7676423245"}]
 
 # Loop to establish communication with customers
 for customer in customer_data:
