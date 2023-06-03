@@ -6,6 +6,7 @@ customer_data = [
     {"name": "Mohamed", "email": "Mohamed@example.com", "phone": "3365678901"},
     {"name": "Maria", "email": "Maria@example.com", "phone": "942817382"},
     {"name": "Salma", "email": "Salma@example.com", "phone": "7676423245"},
+    {"name": "Salim", "email": "Salim@example.com", "phone": "7633423245"},
 ]
 
 # Loop to establish communication with customers
